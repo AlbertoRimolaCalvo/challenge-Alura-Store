@@ -10,22 +10,6 @@ A través del análisis exploratorio de datos (EDA), se evaluó el **rendimiento
 
 ---
 
-## 🗂️ Estructura del proyecto
-El proyecto está organizado de la siguiente manera:
-
-📁 AluraStoreLatam/
-│
-├── AluraStoreLatam.ipynb → Notebook principal con el análisis completo
-├── tienda_1.csv → Datos de la tienda 1
-├── tienda_2.csv → Datos de la tienda 2
-├── tienda_3.csv → Datos de la tienda 3
-├── tienda_4.csv → Datos de la tienda 4
-└── README.md → Documentación del proyecto
-
-Cada archivo `.csv` contiene información sobre productos vendidos, precios, costos de envío, calificaciones de clientes, métodos de pago y coordenadas geográficas de las ventas.
-
----
-
 ## 📊 Análisis y visualizaciones
 
 El notebook incluye distintos pasos de análisis, apoyados con gráficos generados mediante **Pandas** y **Matplotlib**:
